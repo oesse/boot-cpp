@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(ceplact)
+project(boot-node)
 
 set(CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/cmake)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
